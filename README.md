@@ -9,10 +9,10 @@ Bộ kỹ năng điều phối toàn diện **11 công cụ Ohdidi Booker MCP** 
 Chạy lệnh sau để kéo trực tiếp từ GitHub về thư mục cấu hình Skills của Agent:
 
 ```bash
-git clone git@github.com:P7huan/booker-mcp-skill.git ~/.gemini/config/skills/booker-mcp
+git clone https://github.com/P7huan/booker-mcp-skill.git ~/.gemini/config/skills/booker-mcp
 ```
 
-*(Hoặc nếu dùng `npx skills` CLI):*
+*(Hoặc dùng `npx skills` CLI):*
 ```bash
 npx skills add P7huan/booker-mcp-skill -g -y
 ```
